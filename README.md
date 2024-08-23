@@ -1,1 +1,1 @@
-# very-basic-resume
+https://atif-mustafa.github.io/very-basic-resume/
